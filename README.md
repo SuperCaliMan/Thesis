@@ -2,7 +2,7 @@
 
 
 # Bachelor's degree thesis
-[Download Thesis](https://www.google.com "Google's Homepage")
+[Download Thesis](https://bit.ly/3cj0M4Q "Thesis")
 
 
 ![title](file/Screenshot.png)
