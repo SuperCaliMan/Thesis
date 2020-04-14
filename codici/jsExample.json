@@ -1,0 +1,14 @@
+{
+    "valueObjectList":[
+      {
+        "companyId": "GT000",
+        "siteId": 60003,
+        "userCodeId": "STUDIOP",
+        "firstName": "Paghe",
+        "lastName": "Sinesy Consulente",
+        "employeeId": "56",
+        "row_version":"182",
+        "hired":true
+      }
+    ]
+}
